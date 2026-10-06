@@ -1,0 +1,6 @@
+yt-dlp
+imageio-ffmpeg
+faster-whisper
+rapidocr_onnxruntime
+opencv-python-headless
+deep-translator
